@@ -27,7 +27,7 @@
 <p align="left">
   <a href="https://facebook.com/tanvir12islam34"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
   <a href="https://instagram.com/tanvir__islam__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://youtube.com/@tanvir12"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+  <a href="https://youtube.com/@tanflux"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/tanvir-islam-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 </p>
 
